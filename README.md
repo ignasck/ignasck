@@ -6,11 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ignasck/ignasck/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="center"></>My favorite tools</p>
+<p align="center">💼My favorite tools</p>
 
 ###
 
@@ -48,7 +44,7 @@
 
 ###
 
-<p align="left">Databases & cloud</p>
+<p align="left">🗃️Databases & cloud</p>
 
 ###
 
